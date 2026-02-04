@@ -2,7 +2,7 @@
 
 ## 📦 Build
 
-A desktop build is included inside the **Build/** folder.
+A desktop build is included inside the **DesktopExe/** folder.
 
 Download and run the executable to play.
 
