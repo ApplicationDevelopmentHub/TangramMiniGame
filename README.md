@@ -29,5 +29,6 @@ Download and run the executable to play.
 
 - The **Square** and **Parallelogram** currently snap in only one rotation orientation.
 - If snapping fails, try rotating through all angles.
+- Each selected piece was scaled for interaction phase, but never was restored back to original scale after snapping, so the snapped pieces do not perfectly align.
 
 ---
